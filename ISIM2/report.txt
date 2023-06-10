@@ -1,0 +1,1 @@
+This version introduced 10V in the base, 5V in the emitter, and clever switches to control the current in the base resistors
